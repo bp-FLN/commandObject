@@ -1,0 +1,13 @@
+POST {{host}}/commandObject/index
+Content-Type: application/json
+Accept: application/json
+
+{"businessId": 123}
+
+###
+
+POST {{host}}/commandObject/index
+
+{"businessId": 123}
+
+###
